@@ -1,4 +1,2 @@
 - Tashkent, Uzbekistan
-- 2006 -> 16 years
-- Currently learning Python(aiogram, pymongo, fastapi and other libs)
-- <a href='https://t.me/ojfbv'>My Telegram</a>
+- 2006 -> 18 years
